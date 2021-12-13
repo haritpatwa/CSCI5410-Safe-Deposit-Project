@@ -1,0 +1,8 @@
+#button{
+    display: flex;
+    justify-content: flex-end;
+  }
+  #generatereport{
+      display: flex;
+    flex: 50%;
+  }
